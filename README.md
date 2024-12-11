@@ -1,8 +1,11 @@
-# React + Vite
+# Project: Testimonials Carousel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Testimonials Carousel** is a user-friendly React component designed to display customer reviews in an engaging and interactive manner. This project demonstrates how to efficiently use React's `useState` hook to manage dynamic content and implement navigation functionality.
 
-Currently, two official plugins are available:
+## Key Features:
+- **Dynamic Display:** Rotates through an array of testimonials with user-friendly navigation controls.  
+- **State Management:** Utilizes the `useState` hook to track and update the current testimonial index.  
+- **Circular Navigation:** Ensures seamless navigation with circular logic for "Next" and "Previous" buttons.  
+- **Responsive Design:** Clean and adaptable layout for various screen sizes.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is perfect for showcasing user feedback on any website, providing a sleek and professional touch to testimonials.
